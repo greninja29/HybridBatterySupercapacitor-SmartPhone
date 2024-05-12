@@ -1,0 +1,10 @@
+# Ignore compiled object files
+*.o
+*.out
+*.exe
+
+# Ignore build directories
+/.vscode/
+/smartphoneSimulation/.vscode/
+/smartphoneSimulation/.ipynb_checkpoints/
+
